@@ -1,6 +1,8 @@
 Hola como estan, mi nombre es Gabriel y tengo Mucha suerte.
 
-Gabriel tiene 19 años y esta aprovechando al maximo el curso de Platzi 
-para ir a Alemania.
+Gabriel tiene 19 años y esta aprovechando al máximo el curso de Platzi 
+para ir a Alemania. Gabriel estudiará la carrera de desarrollador web.
 
 Hoy hablaremos de la historia de Gabriel.
+
+Gabriel mide 1.65cm.
