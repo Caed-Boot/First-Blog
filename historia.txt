@@ -6,3 +6,5 @@ para ir a Alemania. Gabriel estudiará la carrera de desarrollador web.
 Hoy hablaremos de la historia de Gabriel.
 
 Gabriel mide 1.65cm.
+
+Hoy esta aprendiendo a utilizar Git y posteriormente Github.
