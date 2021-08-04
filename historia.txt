@@ -12,3 +12,5 @@ Hoy esta aprendiendo a utilizar Git y posteriormente Github.
 Gabriel ahora ha creado un archivo HTML vinculado a un archivo CSS
 
 En este momento, Gabriel estaba viendo un curso de Git y el mismo instructor menciono que debe practicar todo lo posible para poder entender lo que viene en el curso. Es un contenido bastante fuerte.
+
+Ya despues de que Gabriel practico bastante con todos los comandos vistos en el curso, el siguio prestando mucha atención a cada uno de los videos.
