@@ -36,6 +36,10 @@ body {
     width: 45px;
 }
 
+.section-img{
+    width: 100px;
+}
+
 .footer {
     display: flex;
     align-items: flex-end;
